@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import { Canvas } from '@react-three/fiber';
 import { Anim } from './Anim';
 
